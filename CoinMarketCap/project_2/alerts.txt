@@ -1,0 +1,5 @@
+ltc 76
+btc 7510
+eth 416
+bch 724
+etc 15

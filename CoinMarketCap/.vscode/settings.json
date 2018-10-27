@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/erick/.virtualenvs/coin/bin/python3.6",
+    "python.venvPath" : "/home/erick/.virtualenvs"
+}
